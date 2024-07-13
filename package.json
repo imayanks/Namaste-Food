@@ -1,0 +1,29 @@
+{
+  "name": "namaste-food",
+  "version": "1.0.0",
+  "description": "This is food ordering website",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imayanks/Namaste-Food.git"
+  },
+  "keywords": [
+    "food-order"
+  ],
+  "author": "Mayank Shashank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imayanks/Namaste-Food/issues"
+  },
+  "homepage": "https://github.com/imayanks/Namaste-Food#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
